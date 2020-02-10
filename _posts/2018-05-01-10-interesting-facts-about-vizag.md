@@ -2,7 +2,7 @@
 id: 173
 title: 10 INTERESTING FACTS ABOUT VIZAG
 date: 2018-05-01T12:09:01+05:30
-author: Mallikarjun Kakollu
+author: Editor
 excerpt: "Visakhapatnam is also known as Vizag and Waltair, it is a port city and industrial center of Andhra Pradesh State, which is located on the Bay of Bengal. It's known for it's beaches, such as Ramakrishna Beach, home to a preserved submarine INS Kursura (S20) at the Kursura Submarine Museum."
 layout: post
 guid: https://www.thecoffeeread.in/?p=173

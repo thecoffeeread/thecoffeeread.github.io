@@ -2,7 +2,7 @@
 id: 189
 title: THINGS YOU SHOULD DO AS AN ENGINEERING STUDENT
 date: 2018-05-01T13:10:53+05:30
-author: Mallikarjun Kakollu
+author: Editor
 excerpt: "Don't regret your Engineering life after you completed it. Just start doing this things before engineering and have fun.."
 layout: post
 guid: https://www.thecoffeeread.in/?p=189
